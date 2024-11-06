@@ -1,7 +1,7 @@
 # binlogparser
-2023-02-27 : 我要写一个分析binlog二进制日志的程序玩玩， 用来统计长事务， 大事务等
+2023-02-27 : 我需要一个分析binlog二进制日志的脚本， 用来统计长事务， 大事务， 热点表等， 解决工作中经常遇到的问题。
 
-2024-11-06 :  
+2024-11-06 :  来了...
 usage: binlog_parser.py [-f LOGFILE] [-t GETTOP] [-sp START_POSITION] [-ep END_POSITION] [-sd START_DATETIME] [-ed END_DATETIME] [-h]
 
   
